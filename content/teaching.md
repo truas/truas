@@ -6,6 +6,9 @@ permalink: /teaching/
 
 # Teaching Experience
 
+- **2020**
+    - Key Competencies in Computer Science – Bergische Universität Wuppertal (Summer/Winter 2020).
+    - Applied Natural Language Processing and Text Mining – Bergische Universität Wuppertal (Winter 2020).
 - **2019**
     - Applied Natural Language Processing and Text Mining – Bergische Universität Wuppertal (Winter 2019).
     - CIS 150 – Computer Science I – University of Michigan – Dearborn - *Graduate Student Instructor (GSI)* (Summer 2019).

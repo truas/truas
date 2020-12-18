@@ -21,16 +21,19 @@
 title: Terry Ruas, Ph.D.
 email: ruas{at}uni-wuppertal.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal/research page. Here you will find my research interests and some other things. 
-baseurl: "truas" # the subpath of your site, e.g. /blog
+  Welcome to my personal/research page. Here you will find my research interests, publications, short CV, and some other things.
+#baseurl: "truas" # the subpath of your site, e.g. /blog
+baseurl: "truas"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: terryruas
 github_username:  truas
+instagram_username: terryruas
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -11,7 +11,7 @@ My research interest is the result of an overlap between natural language proces
 
 Topics of interest: natural language processing, scientific paper mining and recommendation, data science, machine learning, semantic modeling, scientometrics and bibliometrics.
 
-**Contact**: ruas at uni-wuppertal **dot** de
+**Contact**: ruas {at} uni-wuppertal **dot** de
 
 ## Research Interests
 - Natural Language Processing
@@ -27,12 +27,14 @@ Topics of interest: natural language processing, scientific paper mining and rec
 - Machine Learning
 
 ## Experience
+
+### Academia
 - **Bergische Universität Wuppertal** -  Wuppertal  (Germany)
-    - Postdoctoral Researcher at the Data & Knowledge Engineering Group (DKE) – (Current)
-    - [Prof. Bela Gipp](https://dke.uni-wuppertal.de/de/people/prof-dr-bela-gipp.html)
+    - (Current) Postdoctoral Researcher at [DKE](https://dke.uni-wuppertal.de/en.html) - [Prof. Bela Gipp](https://dke.uni-wuppertal.de/de/people/prof-dr-bela-gipp.html)
 - **National Institute of Informatics** -  Tokyo (Japan)
-    - Ph.D Research Internship (Jan – Jul 2018)
-    - [Prof. Akiko Aizawa](https://www.nii.ac.jp/en/faculty/digital_content/aizawa_akiko/)
+    - Ph.D Research Internship (Jan – Jul 2018) - [Prof. Akiko Aizawa](https://www.nii.ac.jp/en/faculty/digital_content/aizawa_akiko/)
+
+### Industry    
 - **IBM** - São Paulo (Brazil)
     - Cost Branding & Delivery Service Planner - Technical Support Services (TSS) (May 2014 –  July 2015).
     - Software Support Coordinator/Team Leader  – Application Integration Middleware, Open Systems, Power and Storage – (Aug 2012 – May 2014).
@@ -42,12 +44,10 @@ Topics of interest: natural language processing, scientific paper mining and rec
 
 ## Education 
 - **University of Michigan** -  Dearborn, MI (USA)
-    - Ph.D. Computer and Information Science (2019) 
-    - [Prof. William Grosky](https://umdearborn.edu/users/wgrosky)
+    - Ph.D. Computer and Information Science (2019) - [Prof. William Grosky](https://umdearborn.edu/users/wgrosky)
 - **Federal University of ABC (UFABC)** -  Santo Andre, SP (Brazil)
-    - M.S. Information Engineering (2013)
-        - [Associate Professor Dra. Luciana Pereira](http://www.ufabc.edu.br/ensino/docentes/luciana-pereira)
-    - B.S. Computer Science (2010) 
+    - M.S. Information Engineering (2013) - [Associate Professor Dra. Luciana Pereira](http://www.ufabc.edu.br/ensino/docentes/luciana-pereira)
+    - B.S. Computer Science (2010) - [Associate Professor Dra. Maria das Graças Bruno Marietto](http://lattes.cnpq.br/4466110931833988)
     - B.S. Science and Technology (2010) 
-        – [Associate Professor Dra. Maria das Graças Bruno Marietto](http://lattes.cnpq.br/4466110931833988)
+       
 
