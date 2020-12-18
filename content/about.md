@@ -10,7 +10,7 @@ Currently working as Postdoctoral Researcher at the [**DKE**](https://dke.uni-wu
 
 My research interest is the result of an overlap between natural language processing, data science, and machine learning applied to text mining to extract semantic features.
 
-**Contact**: ruas {at} uni-wuppertal **dot** de
+**Contact**: ruas **{at}** uni-wuppertal **dot** de
 
 ## **Research Interests**
 - Natural Language Processing
@@ -43,10 +43,10 @@ My research interest is the result of an overlap between natural language proces
 
 ## **Education**
 - **University of Michigan** -  Dearborn, MI (USA)
-    - Ph.D. Computer and Information Science (2019) - [Prof. William Grosky](https://umdearborn.edu/users/wgrosky)
+    - Ph.D. in Computer and Information Science (2019) - [Prof. William Grosky](https://umdearborn.edu/users/wgrosky)
 - **Federal University of ABC (UFABC)** -  Santo Andre, SP (Brazil)
-    - M.S. Information Engineering (2013) - [Associate Professor Dra. Luciana Pereira](http://www.ufabc.edu.br/ensino/docentes/luciana-pereira)
-    - B.S. Computer Science (2010) - [Associate Professor Dra. Maria das Graças Bruno Marietto](http://lattes.cnpq.br/4466110931833988)
-    - B.S. Science and Technology (2010) 
+    - M.S. in Information Engineering (2013) - [Associate Professor Dra. Luciana Pereira](http://www.ufabc.edu.br/ensino/docentes/luciana-pereira)
+    - B.S. in Computer Science (2010) - [Associate Professor Dra. Maria das Graças Bruno Marietto](http://lattes.cnpq.br/4466110931833988)
+    - B.S. in Science and Technology (2010) 
        
 
