@@ -8,9 +8,9 @@ fig_height: 4
 
 # Terry Ruas 
 
-<!-- Figure profile Terry -->
+<!-- Figure profile Terry  src="/truas/assets/img/tr_profile.png"-->
 <figure>
-   <img align="right" src="/assets/img/tr_profile.png" style="max-width: 200px;"/>
+   <img align="right" src="/truas/assets/img/tr_profile.png" style="max-width: 200px;"/>
 </figure>
 
 
