@@ -2,15 +2,26 @@
 layout: page
 title: About
 permalink: /about/
+fig_width: 6 
+fig_height: 4 
 ---
 
 # Terry Ruas 
 
+<!-- Figure profile Terry -->
+<figure>
+   <img align="right" src="/assets/img/tr_profile.png" style="max-width: 200px;"/>
+</figure>
+
+
+{: style="text-align: justify" }
 Currently working as Postdoctoral Researcher at the [**DKE**](https://dke.uni-wuppertal.de/en.html) group with [Prof. Bela Gipp](https://dke.uni-wuppertal.de/de/people/prof-dr-bela-gipp.html) – Bergische Universität Wuppertal, Germany.
+
 
 My research interest is the result of an overlap between natural language processing, data science, and machine learning applied to text mining to extract semantic features.
 
-**Contact**: ruas **{at}** uni-wuppertal **dot** de
+
+ruas **{at}** uni-wuppertal **{dot}** de
 
 ## **Research Interests**
 - Natural Language Processing

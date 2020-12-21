@@ -11,3 +11,26 @@ For more details about my publications please reach out for me or check out my [
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F2503580%2Fitems%3Fkey%3Dt2fNBZxKJsjrlTOYPPQ4383E%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
 
 
+## Service
+
+- 16th International Symposium for Information Science, ISI, Doctoral Consortium Reviewer, Universität Regensburg, 2021.
+- Expert Systems With Applications: An International Journal (Reviewer), ESWA, *Elsevier*, 2020.
+- *ACM/IEEE-CS* Joint Conference on Digital Libraries (Reviewer), JCDL, Xi’an, Shaanxi, P. R. China, 2020.
+- International Journal on Digital Libraries (Reviewer), IJDL, *Springer*, 2020.
+- 3rd Workshop on Multimedia Pragmatics: A Cross-Fertilization of Content-Based Retrieval and Natural Language Processing (Reviewer), MMPrag, *ACM*, Shenzhen, Guangdong, China, 2020.
+- *ACM/IEEE-CS* Joint Conference on Digital Libraries (Reviewer), JCDL, Urbana-Champaign, Illinois, USA, 2019.
+- 2nd Workshop on Multimedia Pragmatics: A Cross-Fertilization of Content-Based Retrieval and Natural Language Processing (Reviewer), MMPrag, *ACM*, San Jose, California, USA, 2019.
+- International Journal on Digital Libraries (Reviewer), IJDL, *Springer*, 2019.
+- Journal of the Association for Information Science and Technology (Reviewer), JASIST, *WILEY*, 2019.
+- 12th International Conference on Semantic Computing (Sub Reviewer), ICSC, *IEEE*, 2018.
+- 1st Workshop on Multimedia Pragmatics: A Cross-Fertilization of Content-Based Retrieval and Natural Language Processing, MMPrag, *ACM*, 2018.
+- 9th International Conference on Management of Digital EcoSystems (Student Track Reviewer), MEDES, *ACM*, 2017.
+- 12th International Conference on Digital Information Management, ICDIM, *IEEE*, 2017.
+- 11th International Conference on Semantic Computing, ICSC, *IEEE*, 2017.
+- 11th International Conference on Digital Information Management, ICDIM, *IEEE*, 2016.
+- International Conference on Communication Systems and Network Technologies, CSNT, *IEEE*, 2012.
+- First International Conference on Integrated Intelligent Computing, CIIC, *IEEE*, 2010.
+
+## Registered Programs (Copyright)
+- ReadWriteBuffer; National Institute of Industrial Property - Patent: Computer Software. Registry number: BR512014000077-0; Brazil; 2014.
+- FixDate; National Institute of Industrial Property - Patent: Computer Software. Registry number: BR512014000078-8; Brazil 2014.
