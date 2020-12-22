@@ -6,9 +6,9 @@ permalink: /about/
 
 # Terry Ruas
 
-<!-- Figure profile Terry  for github src="/truas/assets/img/tr_profile.png"-->
+<!-- Figure profile Terry -->
 <figure>
-   <img align="right" src="../assets/img/tr_profile.png" style="max-width: 200px;"/>
+   <img align="right" src="../assets/img/circle-tr.png" style="max-width: 200px;"/>
 </figure>
 
 
