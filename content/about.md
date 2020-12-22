@@ -2,15 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-fig_width: 6 
-fig_height: 4 
 ---
 
-# Terry Ruas 
+# Terry Ruas
 
-<!-- Figure profile Terry  src="/truas/assets/img/tr_profile.png"-->
+<!-- Figure profile Terry  for github src="/truas/assets/img/tr_profile.png"-->
 <figure>
-   <img align="right" src="/truas/assets/img/tr_profile.png" style="max-width: 200px;"/>
+   <img align="right" src="../assets/img/tr_profile.png" style="max-width: 200px;"/>
 </figure>
 
 
