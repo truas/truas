@@ -8,7 +8,7 @@ permalink: /about/
 
 <!-- Figure profile Terry -->
 <figure>
-   <img align="right" src="../assets/img/circle-tr.png" style="max-width: 200px;"/>
+   <img align="right" src="../assets/img/truas.png" style="max-width: 210px;"/>
 </figure>
 
 
@@ -38,7 +38,7 @@ ruas **{at}** uni-wuppertal **{dot}** de
 
 ### *Academia*
 - **Bergische Universität Wuppertal** -  Wuppertal  (Germany)
-    - (Current) Postdoctoral Researcher at [DKE](https://dke.uni-wuppertal.de/en.html) Group - [Prof. Bela Gipp](https://dke.uni-wuppertal.de/de/people/prof-dr-bela-gipp.html)
+    - (Oct 2019 - Current) Postdoctoral Researcher at [DKE](https://dke.uni-wuppertal.de/en.html) Group - [Prof. Bela Gipp](https://dke.uni-wuppertal.de/de/people/prof-dr-bela-gipp.html)
 - **National Institute of Informatics** -  Tokyo (Japan)
     - Ph.D Research Internship (Jan – Jul 2018) - [Prof. Akiko Aizawa](https://www.nii.ac.jp/en/faculty/digital_content/aizawa_akiko/)
 
