@@ -1,0 +1,27 @@
+<h1>Education</h1>
+<hr>
+<div class="column">
+{% for edu in site.education reversed %}
+    <div class="d-flex flex-row row position-relative">
+        <div class="column mt-4" style="width: 10%;">
+            <div style="width: 22px; height: 22px;" class="rounded-circle background-accent"></div>
+            {% if forloop.last == true %}
+                <div style="width: 2px; height: 85%; margin-left: 10px; top: 1.5rem;" class="background-accent position-absolute"></div>
+            {% else %}
+                <div style="width: 2px; height: 100%; margin-left: 10px; top: 1.5rem;" class="background-accent position-absolute"></div>
+            {% endif %}
+        </div>
+        <div class="ml-5 pb-3" style="width: 80%;">
+        <div class="d-flex flex-row justify-content-between">
+            <div class="column">
+            <h3 class="m-0">{{ edu.position }}</h3>
+            <a class="link-large w-100" target="_blank" rel="noopener noreferrer" href="{{ edu.company_url }}">{{ edu.company }}</a>
+            <p>{{ edu.from }} - {{ edu.to }}</p>
+            </div>
+            <img src="{{ site.url }}{{ site.baseurl }}/{{edu.logo}}" height="40px">
+        </div>
+        {{ edu.content }}
+        </div>
+    </div>
+    {% endfor %}
+</div>

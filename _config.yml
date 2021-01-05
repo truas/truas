@@ -1,29 +1,35 @@
-title: Terry Ruas, Ph.D.
+title: terryruas
 author:
-  name: truas
-  email: ruas{at}uni-wupperta{dot}de
+  name: Terry Ruas, Ph.D.
+  email: ruas{at}uni-wuppertal{dot}de
 description: > # this means to ignore newlines until "show_excerpts:"
-  Welcome to my personal/research page. Here you will find my research interests, publications, short CV, and some other things.
+  Hi, my name is Terry Ruas and I am a Postdoctoral Researcher in the field of Natural Languge Processing (NLP) and Artifical Intelligence (AI).
+other_hobbies:
+ I enjoy computers, great food, a good coffee, other things. 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
+collections:
+  authors:
+  workexperiences:
+  education:
 
-  
+url: https://truas.github.io
+baseurl: /truas
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
-  skin: dark
-
   # generate social links in footer
   social_links:
-    twitter: terryruas
-    github:  truas
+    twitter: ruasterry
+    github: truas
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    instagram: terryruas
+    # instagram: terryruas
     linkedin: terryruas
     # pinterest: jekyll
     # youtube: jekyll

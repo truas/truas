@@ -9,7 +9,6 @@ layout: default
 
   {{ content }}
 
-
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
@@ -17,23 +16,26 @@ layout: default
   {% endif %}
 
 
-  <!-- {%- if posts.size > 0 -%}
+  {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <ul class="post-list">
+    <ul class="post-list row">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+      <li class="px-3 col-sm-12 col-md-6">
+        <div class="card shadow p-4 h-100 rounded">
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+          <img class="mx-auto" src="{{ post.main_img }}" width="80%">
+        </div>
       </li>
       {%- endfor -%}
     </ul>
@@ -56,6 +58,6 @@ layout: default
       </div>
     {%- endif %}
 
-  {%- endif -%} -->
+  {%- endif -%}
 
 </div>
