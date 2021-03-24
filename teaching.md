@@ -3,7 +3,9 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-
+- **2021**
+    - Key Competencies in Computer Science – Bergische Universität Wuppertal (Summer 2021).
+    - Applied Natural Language Processing and Text Mining – Bergische Universität Wuppertal (Winter 2021).
 - **2020**
     - Key Competencies in Computer Science – Bergische Universität Wuppertal (Summer/Winter 2020).
     - Applied Natural Language Processing and Text Mining – Bergische Universität Wuppertal (Winter 2020).

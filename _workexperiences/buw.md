@@ -9,4 +9,4 @@ date: 2019-10-01
 ---
 
 - Senior Researcher
-- Currently working as Postdoctoral Researcher at the [**DKE**](https://dke.uni-wuppertal.de/en.html) group with [Prof. Bela Gipp](https://dke.uni-wuppertal.de/de/people/prof-dr-bela-gipp.html) – Bergische Universität Wuppertal, Germany.
+- Currently working as Postdoctoral Researcher at the [**DKE**](https://dke.uni-wuppertal.de/en.html) group with [Prof. Bela Gipp (Dr.-Ing.)](https://dke.uni-wuppertal.de/de/people/prof-dr-bela-gipp.html) – Bergische Universität Wuppertal, Germany.

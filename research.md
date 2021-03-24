@@ -24,7 +24,8 @@ My research interest is the result of an overlap between natural language proces
 
 ## Service
 
-- 11th International Workshop on Bibliometric-enhanced Information Retrieval (Reviewer), BIR, at ECIR, Lucca (virtual), 2021
+- 2nd Workshop on Scholarly Document Processing (Reviewer), SDP, at NAACL, (virtual), 2021.
+- 11th International Workshop on Bibliometric-enhanced Information Retrieval (Reviewer), BIR, at ECIR, Lucca (virtual), 2021.
 - 16th International Symposium for Information Science, ISI, Doctoral Consortium Reviewer, Universität Regensburg, 2021.
 - Expert Systems With Applications: An International Journal (Reviewer), ESWA, *Elsevier*, 2020.
 - *ACM/IEEE-CS* Joint Conference on Digital Libraries (Reviewer), JCDL, Xi’an, Shaanxi, P. R. China, 2020.

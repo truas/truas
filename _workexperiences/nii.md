@@ -9,4 +9,4 @@ date: 2018-07-23
 ---
 
 - Ph.D. Research Internship 
-- [Prof. Akiko Aizawa](https://www.nii.ac.jp/en/faculty/digital_content/aizawa_akiko/)
+- [Prof. Akiko Aizawa (Deputy Director General)](https://www.nii.ac.jp/en/faculty/digital_content/aizawa_akiko/)
