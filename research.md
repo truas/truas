@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-For more details about my publications please reach out for me or check out my [GoogleScholar Profile](https://scholar.google.com/citations?user=mCDF4XMAAAAJ&hl=en)
+For more details about my publications please reach out for me or check out my [GoogleScholar Profile](https://scholar.google.com/citations?user=mCDF4XMAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/8837621).
 
-## Interests
+## **Interests**
 My research interest is the result of an overlap between natural language processing, data science, and machine learning applied to text mining to extract semantic features.
 
 - Natural Language Processing
@@ -16,13 +16,13 @@ My research interest is the result of an overlap between natural language proces
     - Fake News detection
 - Data Science
 - Word embeddings (Contextual and Static)
-    - Instability
+    - (In)stability
 - Scientometrics
 - Recommender Systems
 - Machine Learning
 
 
-## Service
+## **Service**
 
 - 2nd Workshop on Scholarly Document Processing (Reviewer), SDP, at NAACL, (virtual), 2021.
 - 11th International Workshop on Bibliometric-enhanced Information Retrieval (Reviewer), BIR, at ECIR, Lucca (virtual), 2021.
@@ -44,6 +44,6 @@ My research interest is the result of an overlap between natural language proces
 - International Conference on Communication Systems and Network Technologies, CSNT, *IEEE*, 2012.
 - First International Conference on Integrated Intelligent Computing, CIIC, *IEEE*, 2010.
 
-## Registered Programs (Copyright)
+## **Registered Programs (Copyright)**
 - ReadWriteBuffer; National Institute of Industrial Property - Patent: Computer Software. Registry number: BR512014000077-0; Brazil; 2014.
 - FixDate; National Institute of Industrial Property - Patent: Computer Software. Registry number: BR512014000078-8; Brazil 2014.
