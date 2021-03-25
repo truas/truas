@@ -9,4 +9,4 @@ date: 2015-09-01
 ---
 
 - Semantic Feature Extraction Using Multi-Sense Embeddings and Lexical Chains
-- [Prof. William Grosky](https://umdearborn.edu/users/wgrosky)
+- [Prof. William Grosky](https://wgrosky.wixsite.com/mysite)
