@@ -1,6 +1,6 @@
 ---
 position: Ph.D. Internship
-company: National Institute of Informatics
+company: National Institute of Informatics - Japan
 company_url: https://www.nii.ac.jp/en/
 from: January 2018
 to: July 2018
