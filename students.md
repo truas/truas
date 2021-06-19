@@ -4,11 +4,13 @@ title: Students
 permalink: /students/
 ---
 ### **PhD**
-- [Jan Philip Wahle](https://wahle.ai/)
+- [Jan Philip Wahle](https://wahle.ai/) - Germany
 
 ### **Masters**
-- Jan Philip Wahle (2021-02)
+- Jan Philip Wahle  - Germany (2021-02)
 
 ### **Bachelors**
-- Jan Alex Amann
+- Jan Alex Amann - Germany
 
+### **Mentoring**
+- Raihana Rahman - Columbia Grammar and Preparatory School - Advanced Science Research - USA
