@@ -10,7 +10,7 @@ permalink: /students/
 - Jan Philip Wahle  - Germany (2021-02)
 
 ### **Bachelors**
-- Jan Alex Amann - Germany
+- Jan Alex Amann - Germany (hold)
 
 ### **Mentoring**
 - Raihana Rahman - Columbia Grammar and Preparatory School - Advanced Science Research - USA
