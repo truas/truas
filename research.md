@@ -9,17 +9,22 @@ For more details about my publications please reach out for me or check out my [
 ## **Interests**
 My research interest is the result of an overlap between natural language processing, data science, and machine learning applied to text mining to extract semantic features.
 
+
 - Natural Language Processing
     - Semantic feature extraction
+    - Natural Language Understanding
+    - Language Modeling
     - Paraphrase Generation/Detection
     - Attention mechanisms
+    - Text Summarization
+    - Meeting Summarization
+    - Word embeddings (Contextual and Static)
     - Fake News detection
-- Data Science
-- Word embeddings (Contextual and Static)
-    - (In)stability
 - Scientometrics
+- Bibliometrics
 - Recommender Systems
 - Machine Learning
+
 
 
 ## **Service**
