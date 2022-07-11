@@ -3,6 +3,9 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+- ### **2022**
+    - Introduction to Python for Data Scientists – Georg-August-Universität Göttingen (Winter 2022).
+    - Introduction to IR and NLP – Georg-August-Universität Göttingen (Winter 2022).
 - ### **2021**
     - Key Competencies in Computer Science – Bergische Universität Wuppertal (Summer/Winter 2021).
     - Applied Natural Language Processing and Text Mining – Bergische Universität Wuppertal (Winter 2021).
