@@ -3,7 +3,7 @@ position: Postdoctoral Researcher
 company: Bergische Universität Wuppertal - Germany
 company_url: https://www.uni-wuppertal.de/
 from: October 2019
-to: May 2022
+to: June 2022
 logo: /assets/img/buw.png
 date: 2019-10-01
 ---

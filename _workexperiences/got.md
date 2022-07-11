@@ -2,7 +2,7 @@
 position: Postdoctoral Researcher
 company: Georg-August-Universität Göttingen - Germany
 company_url: https://www.uni-wuppertal.de/
-from: October 2019
+from: July 2022
 to: Present
 logo: /assets/img/goe.png
 date: 2022-06-01
