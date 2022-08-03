@@ -4,15 +4,15 @@ title: Students
 permalink: /students/
 ---
 ### **PhD**
-- [Frederic Kirstein](https://de.linkedin.com/in/frederic-kirstein) (part-time) - Bergische Universität Wuppertal/Daimler - Germany (2021- current)
+- [Frederic Kirstein](https://de.linkedin.com/in/frederic-kirstein) (part-time) - Bergische Universität Wuppertal/Mercedes-Benz - Germany (2021- current)
 - [Jan Philip Wahle](https://wahle.ai/) - Bergische Universität Wuppertal - Germany (2021 - current)
 
 ### **Masters**
 - [Lennart Küll](https://www.linkedin.com/in/lennart-k%C3%BCll-2140a9203/) - Bergische Universität Wuppertal - Germany (2022 - current)
 - Jan Philip Wahle  - Bergische Universität Wuppertal - Germany (2021)
 
-### **Bachelors**
+### **Bachelor**
 - 
 
 ### **Mentoring**
-- Raihana Rahman - Columbia Grammar and Preparatory School - Advanced Science Research - USA (2021)
+- Raihana Rahman - Columbia Grammar and Preparatory School - Advanced Science Research - USA (2021) (Harvard)
