@@ -5,7 +5,7 @@ permalink: /students/
 ---
 ### **PhD**
 - [Frederic Kirstein](https://de.linkedin.com/in/frederic-kirstein) (part-time) - Bergische Universität Wuppertal/Mercedes-Benz - Germany (2021- current)
-- [Jan Philip Wahle](https://wahle.ai/) - Bergische Universität Wuppertal - Germany (2021 - current)
+- [Jan Philip Wahle](https://wahle.ai/) - Universität Göttingen - Germany (2021 - current)
 
 ### **Masters**
 - [Lennart Küll](https://www.linkedin.com/in/lennart-k%C3%BCll-2140a9203/) - Bergische Universität Wuppertal - Germany (2022 - current)
