@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: Privacy Policy
 permalink: /policy/
 ---

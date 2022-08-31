@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: Legal Notice
 permalink: /legal/
 ---
