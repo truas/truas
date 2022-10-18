@@ -9,6 +9,7 @@ permalink: /students/
 
 ### **Masters**
 - Felix Kettenbeil - Universität Göttingen - Germany (2022 - current)
+- [Jonas Becker](https://www.jobec.net/) - Universität Wuppertal - Germany (2022 - current)
 - [Lennart Küll](https://www.linkedin.com/in/lennart-k%C3%BCll-2140a9203/) - Bergische Universität Wuppertal - Germany (2022 - current)
 - Jan Philip Wahle  - Bergische Universität Wuppertal - Germany (2021)
 
