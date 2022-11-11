@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-For more details about my publications please reach out for me or check out my [GoogleScholar Profile](https://scholar.google.com/citations?user=mCDF4XMAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/8837621).
-
 ## **Interests**
 My research interest is the result of an overlap between natural language processing, data science, and machine learning applied to text mining to extract semantic features.
 
@@ -28,6 +26,7 @@ My research interest is the result of an overlap between natural language proces
 
 
 ## **Service**
+- 2nd Workshop of Generation, Evaluation & Metrics (Reviewer), GEM, at *EMNLP*, Abu Dahbi, United Arab Emirates, 2022. 
 - 3rd Workshop on Scholarly Document Processing (Reviewer), SDP, at *COLING*, Gyeongju, Republic of Korea, 2022. 
 - *ACM/IEEE-CS* Joint Conference on Digital Libraries (Reviewer), JCDL, Cologne, Germany, 2022.
 - *ACM/IEEE-CS* Joint Conference on Digital Libraries (Reviewer), JCDL, Urbana-Champaign, USA, 2021.
