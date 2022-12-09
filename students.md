@@ -17,8 +17,11 @@ permalink: /students/
 ### **Bachelor**
 - 
 
+---
 
 ## **Former**
+
+---
 
 ### **PhD**
 
