@@ -3,9 +3,13 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+- ### **2023**
+    - Deep Learning for Natural Language Processing – Georg-August-Universität Göttingen (Summer 2023).
+    - Research Methodology for Computer Science – Georg-August-Universität Göttingen (Summer 2023).
+    - Selected Topics in Data Science – Georg-August-Universität Göttingen (Summer 2023).
 - ### **2022**
     - Introduction to Python for Data Scientists – Georg-August-Universität Göttingen (Winter 2022).
-    - Introduction to IR and NLP – Georg-August-Universität Göttingen (Winter 2022).
+    - Selected Topics in Data Science – Georg-August-Universität Göttingen (Winter 2022).
 - ### **2021**
     - Key Competencies in Computer Science – Bergische Universität Wuppertal (Summer/Winter 2021).
     - Applied Natural Language Processing and Text Mining – Bergische Universität Wuppertal (Winter 2021).
