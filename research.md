@@ -56,8 +56,8 @@ My research interest is the result of an overlap between natural language proces
 - FixDate; National Institute of Industrial Property - Patent: Computer Software. Registry number: BR512014000078-8; Brazil 2014.
 
 ---
-
 ## **Talks**
+---
 
 - Detecting Machine Obfuscated Plagiarism. In: iConference 2020 Sustainable Digital Communities (virtual), Boras, Sweden, 2020.
 
