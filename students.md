@@ -34,4 +34,4 @@ permalink: /students/
 -  -->
 
 ### **Mentoring**
-- Raihana Rahman - Columbia Grammar and Preparatory School - Advanced Science Research - USA (2021) (Harvard)
+- [Raihana Rahman](https://www.linkedin.com/in/raihana-rahman-74323b252/) - Columbia Grammar and Preparatory School - Advanced Science Research - USA (2021) (Harvard)
