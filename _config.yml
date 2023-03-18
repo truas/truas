@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
 other_hobbies:
  I enjoy computers, great food, a good coffee, and other things. 
 footer_notes:
-  Here you will find some information about my work, research interests, publications, and teaching. If you have any questions pelase send me an email Thanks to <a href="https://jpwahle.com/">Jan Wahle</a> for sharing this great template.
+  Here you will find some information about my work, research interests, publications, and teaching. If you have any questions pelase send me an email Thanks to Jan Wahle for sharing this great template.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
