@@ -7,12 +7,13 @@ permalink: /students/
 ---
 
 ### **PhD**
-- [Frederic Kirstein](https://de.linkedin.com/in/frederic-kirstein) (part-time) - Universität Göttingen/Mercedes-Benz - Germany (2021)
-- [Jan Philip Wahle](https://jpwahle.com/) - Universität Göttingen - Germany (2021)
+- [Frederic Kirstein](https://de.linkedin.com/in/frederic-kirstein) (part-time) - University of Göttingen/Mercedes-Benz - Germany (2021)
+- [Jan Philip Wahle](https://jpwahle.com/) - University of Göttingen - Germany (2021)
 
 ### **Masters**
-- Felix Kettenbeil - Universität Göttingen - Germany (2022)
+- Felix Kettenbeil - University of Göttingen - Germany (2022)
 - [Jonas Becker](https://www.jobec.net/) - Universität Wuppertal - Germany (2022)
+- Joel Beck - University of Göttingen - Germany (2023) - co-supervisor
 
 <!-- 
 ### **Bachelor**
