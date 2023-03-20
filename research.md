@@ -23,6 +23,13 @@ My research interest is the result of an overlap between natural language proces
 - Recommender Systems
 - Machine Learning
 
+## **Collaborators**
+Here are some great people (e.g., grad students, researchers, post-docs, practicioners) I have the pleasure to work with:
+- [Jan Philip Wahle](https://jpwahle.com/)
+- [Mohamed Abdalla](https://www.cs.toronto.edu/~msa/)
+- [Said M. Mohammad](http://saifmohammad.com/)
+- [Timo Spinde](https://media-bias-research.org/)
+
 
 
 ## **Service**
